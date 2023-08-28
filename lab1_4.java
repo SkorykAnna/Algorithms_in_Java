@@ -3,7 +3,7 @@ import java.util.Scanner;
 // Two numbers A and B, which are not equal to zero at the same time, are written to the data input. 
 //The greatest common divisor is given for the output.
 
-public class Main {
+public class lab1_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

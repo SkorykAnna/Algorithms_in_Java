@@ -5,7 +5,7 @@ import java.util.Scanner;
 //The numbers following the number 0 should not be read. As an output, 
 //you get the number of prime numbers in the given sequence.
 
-public class Main {
+public class lab1_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = 0;

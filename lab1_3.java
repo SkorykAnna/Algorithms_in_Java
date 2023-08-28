@@ -3,7 +3,7 @@ import java.util.Scanner;
 // Two natural numbers A and B are written to the data input. 
 // All prime numbers from the specified range are output.
 
-public class Main {
+public class lab1_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

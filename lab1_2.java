@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // The input is one number N. The output is the first N prime numbers.
 
-public class Main {
+public class lab1_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
